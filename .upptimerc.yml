@@ -1,4 +1,6 @@
-# Change these first
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
 owner: InPageEdit # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
@@ -20,14 +22,92 @@ status-website:
   cname: status.ipe.wjghj.cn
   # baseUrl: /your-repo-name
   logoUrl: https://ipe.js.org/images/logo/IPE.png
-  name: InPageEdit Tech.
-  introTitle: "**InPageEdit** status page"
-  introMessage: Powered by [upptime](https://github.com/upptime/upptime).
+  name: InPageEdit Status
+  introTitle: "**InPageEdit** 运行状态"
+  introMessage: "**InPageEdit** 是由机智的小鱼君编写的一款 MediaWiki 多功能插件，它主要基于 jQuery 编写。具有较好的移动设备支持以及~~毫无卵用~~的五彩斑斓设计。主要功能旨在使许多 MediaWiki 的功能在不打开新标签页的情况下完成(包括但不限于编辑)，极大加快维护 wiki 的速度。"
   navbar:
-    - title: Status
+    - title: 首页
       href: /
-    - title: GitHub
+    - title: 关于
       href: https://github.com/$OWNER/$REPO
+    - title: GitHub
+      href: https://github.com/InPageEdit
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  url: URL
+  status: 状态
+  history: 历史
+  responseTime: 响应时间
+  uptime: Uptime
+  up: 🟩 正常运行
+  degraded: 🟨 部分停机
+  down: 🟥 全线宕机
+  responseTimeGraphAlt: 响应时间趋势
+  ms: ms
+  responseTime: 响应时间
+  responseTimeDay: 24小时响应时间
+  responseTimeWeek: 7天响应时间
+  responseTimeMonth: 30天响应时间
+  responseTimeYear: 1年响应时间
+  uptime: 整体可用率
+  uptimeDay: 4小时可用率
+  uptimeWeek: 7日可用率
+  uptimeMonth: 30日可用率
+  uptimeYear: 1年可用率
+  liveStatus: 实时状态
+  liveStatusHtmlComment: ""
+  allSystemsOperational: 🟩 系统全功率运转中
+  degradedPerformance: 🟨 低可用率
+  completeOutage: 🟥 全线宕机
+  partialOutage: 🟧 部分停机
+  activeIncidents: 目前宕机中
+  allSystemsOperational: 太棒了，系统全速运转中！
+  incidentReport: "事故报告 #$NUMBER →"
+  activeIncidentSummary: 自 $DATE 起 $POSTS 条相关动态
+  incidentTitle: 事故详情 $NUMBER
+  incidentDetails: 事故详情
+  incidentFixed: 已修复
+  incidentOngoing: 进行中
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
+  incidentSubscribe: 订阅处理进展
+  incidentViewOnGitHub: 在 GitHub 查看
+  incidentCommentSummary: $AUTHOR 于 $DATE 发布
+  incidentBack: ← 返回事故列表
+  pastIncidents: 过去的事故
+  pastIncidentsResolved: 已于 $MINUTES 分钟内解决，共 $POSTS 条动态
+  overallUptime: 总体运行状态: $UPTIME
+  overallUptimeTitle: 总体运行状态
+  averageResponseTime: 平均响应时间: $TIMEms
+  averageResponseTimeTitle: 平均响应
+  sevelDayResponseTime: 7天响应时间
+  responseTimeMs: 响应时间 (毫秒)
+  loading: 加载中
+  navGitHub: GitHub
+  footer: Powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: 频率受限
+  rateLimitExceededIntro: 您已达到请求数上限，因此您可能需要尝试在一个小时后再次访问。或者，您可以添加 GitHub 个人访问令牌以继续使用此网站。
+  rateLimitExceededWhatDoesErrorMean: 这个报错意味着什么？
+  rateLimitExceededErrorMeaning: 我们使用 GitHub API 获取实时数据。默认情况下，GitHub 允许每个 IP 地址每小时 60 个请求，您已经达到了使用上限。
+  rateLimitExceededErrorHowCanFix: 我如何处理它？
+  rateLimitExceededErrorFix: 您可以稍等一小时，您的 IP 地址限制将恢复。或者，您可以添加您的 GitHub 个人访问令牌，这将使您获得每小时 5000 个请求的上限。
+  rateLimitExceededGeneratePAT: 了解如何生成个人访问令牌
+  rateLimitExceededHasSet: 您已配置个人访问令牌。
+  rateLimitExceededRemoveToken: 移除令牌
+  rateLimitExceededGitHubPAT: GitHub 个人访问令牌
+  rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
+  rateLimitExceededSaveToken: 保存令牌
+  errorTitle: 哎呀，出大问题
+  errorIntro: 获取最新状态详细信息时出现了问题……
+  errorText: 如果您位于中国大陆，则可能是无法访问 GitHub 数据导致的。您也可以稍后再试。
+  errorHome: 回到首页
+  pastScheduledMaintenance: 过去的定期维护
+  scheduledMaintenance: 定期维护
+  scheduledMaintenanceSummaryStarted: 已于 $DURATION 分钟前($DATE)开始
+  scheduledMaintenanceSummaryStarts: 开始于 $DURATION 分钟前($DATE)
+  startedAt: 已开始于
+  startsAt: 开始于
+  duration: 历时
+  durationMin: $DURATION 分钟
+  incidentCompleted: 完成
+  incidentScheduled: 排队
