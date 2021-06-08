@@ -30,16 +30,16 @@ status-website:
       href: /
     - title: 关于
       href: https://github.com/$OWNER/$REPO
-    - title: GitHub
+    - title: InPageEdit
       href: https://github.com/InPageEdit
 
 i18n:
   url: URL
   status: 状态
   history: 历史
-  up: 🟩 正常运行
-  degraded: 🟨 部分停机
-  down: 🟥 全线宕机
+  up: 正常运行
+  degraded: 部分停机
+  down: 全线宕机
   responseTimeGraphAlt: 响应时间趋势
   ms: ms
   responseTime: 响应时间
@@ -54,10 +54,10 @@ i18n:
   uptimeYear: 1年可用率
   liveStatus: 实时状态
   liveStatusHtmlComment: ""
-  allSystemsOperational: 🟩 系统全功率运转中
-  degradedPerformance: 🟨 低可用率
-  completeOutage: 🟥 全线宕机
-  partialOutage: 🟧 部分停机
+  allSystemsOperational: 好耶，系统全功率运转中~
+  degradedPerformance: 不太好，部分系统可用率偏低……
+  completeOutage: 出大问题，全线系统均已宕机！
+  partialOutage: 不太好，部分系统宕机中……
   activeIncidents: 目前宕机中
   incidentReport: "事故报告 #$NUMBER →"
   activeIncidentSummary: 自 $DATE 起 $POSTS 条相关动态
@@ -95,8 +95,8 @@ i18n:
   rateLimitExceededCopyPastePAT: 复制并粘贴您的令牌
   rateLimitExceededSaveToken: 保存令牌
   errorTitle: 哎呀，出大问题
-  errorIntro: 获取最新状态详细信息时出现了问题……
-  errorText: 如果您位于中国大陆，则可能是无法访问 GitHub 数据导致的。您也可以稍后再试。
+  errorIntro: 好像无法获取最新的状态数据……
+  errorText: 如果您位于中国大陆，则可能是无法访问 GitHub 数据导致的。<br>您也可以稍后再试。
   errorHome: 回到首页
   pastScheduledMaintenance: 过去的定期维护
   scheduledMaintenance: 定期维护
