@@ -28,10 +28,10 @@ status-website:
   navbar:
     - title: 首页
       href: /
-    - title: 关于
+    - title: 数据
       href: https://github.com/$OWNER/$REPO
     - title: InPageEdit
-      href: https://github.com/InPageEdit
+      href: https://ipe.js.org
 
 i18n:
   url: URL
