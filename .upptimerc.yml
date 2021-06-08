@@ -37,8 +37,6 @@ i18n:
   url: URL
   status: 状态
   history: 历史
-  responseTime: 响应时间
-  uptime: Uptime
   up: 🟩 正常运行
   degraded: 🟨 部分停机
   down: 🟥 全线宕机
@@ -49,7 +47,7 @@ i18n:
   responseTimeWeek: 7天响应时间
   responseTimeMonth: 30天响应时间
   responseTimeYear: 1年响应时间
-  uptime: 整体可用率
+  uptime: 可用率
   uptimeDay: 4小时可用率
   uptimeWeek: 7日可用率
   uptimeMonth: 30日可用率
@@ -61,7 +59,6 @@ i18n:
   completeOutage: 🟥 全线宕机
   partialOutage: 🟧 部分停机
   activeIncidents: 目前宕机中
-  allSystemsOperational: 太棒了，系统全速运转中！
   incidentReport: "事故报告 #$NUMBER →"
   activeIncidentSummary: 自 $DATE 起 $POSTS 条相关动态
   incidentTitle: 事故详情 $NUMBER
@@ -76,9 +73,9 @@ i18n:
   incidentBack: ← 返回事故列表
   pastIncidents: 过去的事故
   pastIncidentsResolved: 已于 $MINUTES 分钟内解决，共 $POSTS 条动态
-  overallUptime: 总体运行状态: $UPTIME
+  overallUptime: "总体运行状态: $UPTIME"
   overallUptimeTitle: 总体运行状态
-  averageResponseTime: 平均响应时间: $TIMEms
+  averageResponseTime: "平均响应时间: $TIMEms"
   averageResponseTimeTitle: 平均响应
   sevelDayResponseTime: 7天响应时间
   responseTimeMs: 响应时间 (毫秒)
