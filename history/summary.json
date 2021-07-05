@@ -60,9 +60,9 @@
     "url": "https://analysis.ipe.wjghj.cn/api/query/wiki",
     "icon": "https://favicons.githubusercontent.com/analysis.ipe.wjghj.cn",
     "slug": "analysis-backend-v4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 674,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   },
   {
     "name": "Analysis Frontend",
