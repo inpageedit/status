@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 64,
+    "timeDay": 55,
     "timeWeek": 54,
-    "timeMonth": 79,
+    "timeMonth": 80,
     "timeYear": 89,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 159,
-    "timeDay": 137,
-    "timeWeek": 183,
-    "timeMonth": 146,
-    "timeYear": 159,
+    "time": 157,
+    "timeDay": 65,
+    "timeWeek": 181,
+    "timeMonth": 142,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2021-06-08": 23
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 131,
-    "timeWeek": 103,
+    "time": 126,
+    "timeDay": 59,
+    "timeWeek": 104,
     "timeMonth": 112,
-    "timeYear": 128,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/analysis.ipe.wjghj.cn",
     "slug": "analysis-backend-v4",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 694,
-    "timeDay": 492,
-    "timeWeek": 631,
-    "timeMonth": 664,
-    "timeYear": 694,
+    "uptimeYear": "99.98%",
+    "time": 690,
+    "timeDay": 544,
+    "timeWeek": 614,
+    "timeMonth": 660,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2021-07-05": 15
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 128,
-    "timeWeek": 215,
-    "timeMonth": 253,
-    "timeYear": 258,
+    "time": 255,
+    "timeDay": 161,
+    "timeWeek": 206,
+    "timeMonth": 254,
+    "timeYear": 255,
     "dailyMinutesDown": {}
   }
 ]
