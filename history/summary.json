@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 67,
-    "timeWeek": 104,
+    "time": 87,
+    "timeDay": 55,
+    "timeWeek": 97,
     "timeMonth": 77,
-    "timeYear": 88,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/ipe-plugins.js.org",
     "slug": "plugins-store",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 161,
-    "timeDay": 215,
-    "timeWeek": 147,
+    "uptimeYear": "99.98%",
+    "time": 162,
+    "timeDay": 200,
+    "timeWeek": 165,
     "timeMonth": 171,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2021-06-08": 23
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 209,
-    "timeWeek": 174,
-    "timeMonth": 155,
-    "timeYear": 142,
+    "time": 143,
+    "timeDay": 255,
+    "timeWeek": 200,
+    "timeMonth": 157,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 694,
-    "timeDay": 700,
-    "timeWeek": 668,
-    "timeMonth": 674,
-    "timeYear": 694,
+    "time": 693,
+    "timeDay": 653,
+    "timeWeek": 633,
+    "timeMonth": 679,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2021-07-05": 15
     }
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 552,
-    "timeWeek": 322,
+    "timeDay": 254,
+    "timeWeek": 319,
     "timeMonth": 306,
     "timeYear": 284,
     "dailyMinutesDown": {}
