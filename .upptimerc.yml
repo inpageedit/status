@@ -10,16 +10,16 @@ sites:
   - name: Plugins Store
     url: https://ipe-plugins.js.org
   - name: Documentation
-    url: https://ipe.js.org
-  - name: Analytics Backend v5
-    url: https://analytics-v5.ipe.wjghj.cn/api/query/recents?limit=1
-  - name: Analytics Frontend
-    url: https://blog.wjghj.cn/inpageedit/
+    url: https://www.ipe.wiki
+  - name: Analytics API v5
+    url: https://analytics.ipe.wiki/api/query/recents?limit=1
+  - name: Analytics Dashboard
+    url: https://analytics.ipe.wiki/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ipe.wjghj.cn
+  cname: status.ipe.wiki
   # baseUrl: /your-repo-name
   logoUrl: https://ipe.js.org/images/logo/IPE.png
   name: InPageEdit Status
@@ -31,7 +31,7 @@ status-website:
     - title: 数据
       href: https://github.com/$OWNER/$REPO
     - title: InPageEdit
-      href: https://ipe.js.org
+      href: https://www.ipe.wiki
 
 i18n:
   url: URL
