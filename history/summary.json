@@ -42,9 +42,9 @@
     "url": "https://www.ipe.wiki",
     "icon": "https://favicons.githubusercontent.com/www.ipe.wiki",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -54,6 +54,7 @@
     "timeMonth": 338,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2022-01-19": 0,
       "2021-12-20": 18,
       "2021-11-16": 33
     }
