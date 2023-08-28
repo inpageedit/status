@@ -1,7 +1,7 @@
 url: https://ipe-plugins.js.org
-status: up
-code: 200
-responseTime: 140
-lastUpdated: 2023-08-27T23:15:43.365Z
+status: down
+code: 502
+responseTime: 244
+lastUpdated: 2023-08-28T17:51:38.900Z
 startTime: 2021-06-08T08:12:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
