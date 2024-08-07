@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 53,
-    "timeWeek": 77,
-    "timeMonth": 227,
-    "timeYear": 87,
+    "timeDay": 78,
+    "timeWeek": 66,
+    "timeMonth": 228,
+    "timeYear": 88,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 151,
-    "timeWeek": 171,
-    "timeMonth": 183,
-    "timeYear": 169,
+    "timeDay": 88,
+    "timeWeek": 151,
+    "timeMonth": 181,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 331,
-    "timeDay": 460,
-    "timeWeek": 365,
-    "timeMonth": 443,
+    "timeDay": 328,
+    "timeWeek": 352,
+    "timeMonth": 445,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2024-03-16": 34
@@ -66,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.14%",
-    "time": 1576,
-    "timeDay": 1752,
-    "timeWeek": 1626,
-    "timeMonth": 1552,
+    "time": 1577,
+    "timeDay": 1121,
+    "timeWeek": 1539,
+    "timeMonth": 1554,
     "timeYear": 1614,
     "dailyMinutesDown": {
       "2024-06-03": 22,
@@ -89,8 +89,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1041,
-      "2023-08-08": 40
+      "2023-10-09": 1041
     }
   },
   {
@@ -99,16 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.ipe.wiki.ico",
     "slug": "analytics-dashboard",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.14%",
     "time": 43,
-    "timeDay": 20,
-    "timeWeek": 35,
-    "timeMonth": 40,
-    "timeYear": 44,
+    "timeDay": 57,
+    "timeWeek": 38,
+    "timeMonth": 42,
+    "timeYear": 45,
     "dailyMinutesDown": {
       "2024-06-03": 22,
       "2024-01-17": 24,
