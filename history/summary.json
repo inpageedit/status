@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 46,
+    "time": 97,
+    "timeDay": 45,
     "timeWeek": 68,
-    "timeMonth": 124,
+    "timeMonth": 117,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 208,
-    "timeWeek": 156,
-    "timeMonth": 177,
+    "timeDay": 89,
+    "timeWeek": 158,
+    "timeMonth": 174,
     "timeYear": 172,
     "dailyMinutesDown": {}
   },
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 334,
-    "timeDay": 160,
-    "timeWeek": 285,
-    "timeMonth": 330,
+    "time": 333,
+    "timeDay": 99,
+    "timeWeek": 244,
+    "timeMonth": 315,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-03-16": 34
@@ -65,12 +65,12 @@
     "uptimeDay": "98.00%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "98.73%",
-    "time": 1746,
-    "timeDay": 4734,
+    "uptimeYear": "98.78%",
+    "time": 1748,
+    "timeDay": 4760,
     "timeWeek": 4503,
-    "timeMonth": 3908,
-    "timeYear": 1961,
+    "timeMonth": 3920,
+    "timeYear": 1964,
     "dailyMinutesDown": {
       "2024-10-18": 29,
       "2024-10-17": 29,
@@ -86,8 +86,7 @@
       "2024-01-17": 24,
       "2023-10-23": 435,
       "2023-10-22": 1440,
-      "2023-10-21": 1440,
-      "2023-10-20": 1440
+      "2023-10-21": 1440
     }
   },
   {
@@ -100,10 +99,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.83%",
     "time": 44,
-    "timeDay": 52,
-    "timeWeek": 112,
+    "timeDay": 38,
+    "timeWeek": 39,
     "timeMonth": 62,
     "timeYear": 46,
     "dailyMinutesDown": {
@@ -111,8 +110,7 @@
       "2024-01-17": 24,
       "2023-10-23": 435,
       "2023-10-22": 1440,
-      "2023-10-21": 1440,
-      "2023-10-20": 1440
+      "2023-10-21": 1440
     }
   }
 ]
