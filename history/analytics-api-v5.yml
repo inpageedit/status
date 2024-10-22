@@ -1,7 +1,7 @@
 url: https://analytics.ipe.wiki/api/query/recents?limit=1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-22T04:20:47.419Z
+status: up
+code: 200
+responseTime: 1097
+lastUpdated: 2024-10-22T04:38:10.958Z
 startTime: 2021-09-16T00:15:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
