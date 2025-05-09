@@ -24,16 +24,18 @@
     "slug": "plugins-store",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
+    "time": 187,
     "timeDay": 406,
     "timeWeek": 268,
     "timeMonth": 226,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "timeYear": 195,
+    "dailyMinutesDown": {
+      "2025-05-09": 0
+    }
   },
   {
     "name": "Documentation",
@@ -62,7 +64,7 @@
     "uptime": "96.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.56%",
+    "uptimeMonth": "80.09%",
     "uptimeYear": "90.48%",
     "time": 1980,
     "timeDay": 1876,
@@ -134,7 +136,7 @@
     "uptime": "96.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.56%",
+    "uptimeMonth": "80.09%",
     "uptimeYear": "90.58%",
     "time": 45,
     "timeDay": 154,
