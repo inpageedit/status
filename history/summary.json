@@ -24,17 +24,17 @@
     "slug": "plugins-store",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 197,
     "timeWeek": 235,
     "timeMonth": 225,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2025-05-09": 36
+      "2025-05-09": 25
     }
   },
   {
@@ -64,7 +64,7 @@
     "uptime": "96.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.52%",
+    "uptimeMonth": "82.83%",
     "uptimeYear": "90.48%",
     "time": 1982,
     "timeDay": 2057,
@@ -136,7 +136,7 @@
     "uptime": "96.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.52%",
+    "uptimeMonth": "82.83%",
     "uptimeYear": "90.58%",
     "time": 45,
     "timeDay": 55,
