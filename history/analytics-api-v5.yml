@@ -1,7 +1,7 @@
 url: https://analytics.ipe.wiki/api/query/recents?limit=1
 status: down
 code: 429
-responseTime: 110
-lastUpdated: 2025-10-26T23:22:03.063Z
+responseTime: 605
+lastUpdated: 2025-10-27T23:22:13.885Z
 startTime: 2021-09-16T00:15:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
