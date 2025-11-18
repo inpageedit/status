@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 376,
     "timeDay": 391,
-    "timeWeek": 376,
+    "timeWeek": 383,
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://registry.ipe.wiki/registry.v1.json",
     "icon": "https://icons.duckduckgo.com/ip3/registry.ipe.wiki.ico",
     "slug": "plugin-registry-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 455,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "time": 332,
+    "timeDay": 390,
+    "timeWeek": 341,
+    "timeMonth": 332,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Analytics Dashboard",
@@ -44,11 +46,11 @@
     "uptime": "94.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "39.75%",
+    "uptimeMonth": "41.08%",
     "uptimeYear": "80.22%",
     "time": 96,
     "timeDay": 1645,
-    "timeWeek": 1639,
+    "timeWeek": 1602,
     "timeMonth": 786,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -144,7 +146,7 @@
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 268,
-    "timeWeek": 248,
+    "timeWeek": 246,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {}
