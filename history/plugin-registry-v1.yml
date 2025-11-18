@@ -1,7 +1,7 @@
 url: https://registry.ipe.wiki/registry.v1.json
-status: down
-code: 500
-responseTime: 324
-lastUpdated: 2025-11-18T11:40:13.812Z
+status: up
+code: 200
+responseTime: 81
+lastUpdated: 2025-11-18T14:39:49.889Z
 startTime: 2025-11-11T07:56:15.173Z
 generator: Upptime <https://github.com/upptime/upptime>
