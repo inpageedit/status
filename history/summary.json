@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipe.wiki.ico",
     "slug": "official-website",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.10%",
+    "uptimeDay": "93.47%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.10%",
     "time": 366,
     "timeDay": 338,
     "timeWeek": 371,
     "timeMonth": 366,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-11-18": 61
+      "2025-11-18": 94
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry.ipe.wiki.ico",
     "slug": "plugin-registry-v1",
     "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.01%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 332,
     "timeDay": 390,
     "timeWeek": 341,
     "timeMonth": 332,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-11-18": 70
+      "2025-11-18": 103
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "analytics-dashboard",
     "status": "up",
     "uptime": "94.34%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "95.75%",
     "uptimeWeek": "99.23%",
-    "uptimeMonth": "41.10%",
+    "uptimeMonth": "41.17%",
     "uptimeYear": "80.21%",
     "time": 141,
     "timeDay": 7972,
@@ -141,17 +141,17 @@
     "url": "https://analytics.ipe.wiki/api/v6/usage/recent?limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.ipe.wiki.ico",
     "slug": "analytics-api-v6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "95.75%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
-    "time": 228,
-    "timeDay": 185,
-    "timeWeek": 223,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 209,
+    "timeDay": 146,
+    "timeWeek": 204,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2025-11-18": 61
     }
