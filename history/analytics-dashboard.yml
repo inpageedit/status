@@ -1,7 +1,7 @@
 url: https://analytics.ipe.wiki/
-status: up
-code: 200
-responseTime: 1367
-lastUpdated: 2025-11-20T23:23:41.732Z
+status: down
+code: 503
+responseTime: 80
+lastUpdated: 2025-11-21T08:52:50.745Z
 startTime: 2021-09-16T00:15:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
