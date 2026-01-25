@@ -143,18 +143,19 @@
     "url": "https://analytics.ipe.wiki/api/v6/usage/recent?limit=1",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.ipe.wiki.ico",
     "slug": "analytics-api-v6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 266,
-    "timeDay": 258,
-    "timeWeek": 250,
+    "timeDay": 263,
+    "timeWeek": 252,
     "timeMonth": 272,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2026-01-25": 0,
       "2025-11-18": 138
     }
   }
