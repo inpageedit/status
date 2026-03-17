@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipe.wiki.ico",
     "slug": "official-website",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 298,
-    "timeDay": 344,
-    "timeWeek": 566,
-    "timeMonth": 328,
-    "timeYear": 298,
+    "uptimeYear": "99.90%",
+    "time": 297,
+    "timeDay": 148,
+    "timeWeek": 562,
+    "timeMonth": 321,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2025-11-18": 190
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry.ipe.wiki.ico",
     "slug": "plugin-registry-v1",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 245,
-    "timeDay": 349,
-    "timeWeek": 190,
-    "timeMonth": 221,
-    "timeYear": 245,
+    "uptimeYear": "99.89%",
+    "time": 244,
+    "timeDay": 171,
+    "timeWeek": 198,
+    "timeMonth": 216,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2025-12-29": 28,
       "2025-11-18": 180
@@ -50,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.34%",
-    "time": 805,
-    "timeDay": 2178,
-    "timeWeek": 1935,
-    "timeMonth": 1856,
-    "timeYear": 1028,
+    "uptimeYear": "81.61%",
+    "time": 809,
+    "timeDay": 2363,
+    "timeWeek": 2089,
+    "timeMonth": 1845,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2025-11-21": 20,
       "2025-11-18": 138,
@@ -128,8 +128,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1440
+      "2025-03-18": 1440
     }
   },
   {
@@ -143,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 289,
-    "timeDay": 302,
-    "timeWeek": 332,
-    "timeMonth": 337,
-    "timeYear": 289,
+    "time": 290,
+    "timeDay": 473,
+    "timeWeek": 353,
+    "timeMonth": 344,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2025-11-18": 138
     }
