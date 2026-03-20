@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 295,
-    "timeDay": 246,
-    "timeWeek": 173,
-    "timeMonth": 318,
+    "timeDay": 340,
+    "timeWeek": 202,
+    "timeMonth": 316,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2025-11-18": 190
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 243,
-    "timeDay": 199,
-    "timeWeek": 195,
-    "timeMonth": 212,
-    "timeYear": 243,
+    "time": 244,
+    "timeDay": 328,
+    "timeWeek": 227,
+    "timeMonth": 216,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2025-12-29": 28,
       "2025-11-18": 180
@@ -50,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.16%",
-    "time": 819,
-    "timeDay": 2546,
-    "timeWeek": 2177,
-    "timeMonth": 1906,
-    "timeYear": 1046,
+    "uptimeYear": "82.43%",
+    "time": 822,
+    "timeDay": 1755,
+    "timeWeek": 2125,
+    "timeMonth": 1893,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2025-11-21": 20,
       "2025-11-18": 138,
@@ -125,8 +125,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -135,15 +134,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.ipe.wiki.ico",
     "slug": "analytics-api-v6",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 290,
-    "timeDay": 311,
-    "timeWeek": 343,
-    "timeMonth": 345,
+    "timeDay": 307,
+    "timeWeek": 337,
+    "timeMonth": 344,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2025-11-18": 138
