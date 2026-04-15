@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ipe.wiki.ico",
     "slug": "official-website",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 291,
-    "timeDay": 155,
-    "timeWeek": 176,
-    "timeMonth": 257,
-    "timeYear": 291,
+    "uptimeYear": "99.92%",
+    "time": 292,
+    "timeDay": 441,
+    "timeWeek": 212,
+    "timeMonth": 267,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2025-11-18": 190
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 244,
-    "timeDay": 355,
-    "timeWeek": 236,
-    "timeMonth": 240,
+    "timeDay": 212,
+    "timeWeek": 204,
+    "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2025-12-29": 28,
@@ -50,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "89.28%",
-    "time": 938,
-    "timeDay": 1690,
-    "timeWeek": 2049,
-    "timeMonth": 2202,
-    "timeYear": 1195,
+    "uptimeYear": "89.55%",
+    "time": 943,
+    "timeDay": 2503,
+    "timeWeek": 2059,
+    "timeMonth": 2224,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2026-04-10": 58,
       "2025-11-21": 20,
@@ -100,8 +100,7 @@
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 583,
-      "2025-07-26": 17,
-      "2025-04-15": 434
+      "2025-07-26": 17
     }
   },
   {
@@ -116,9 +115,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
     "time": 299,
-    "timeDay": 405,
-    "timeWeek": 353,
-    "timeMonth": 343,
+    "timeDay": 372,
+    "timeWeek": 351,
+    "timeMonth": 344,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2026-04-10": 56,
